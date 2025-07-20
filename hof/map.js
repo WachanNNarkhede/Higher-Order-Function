@@ -12,3 +12,4 @@ console.log(newarry);
 // for each only for some internal task and it does not return anything or for only printing purpose
 // map is used to create a new array from the existing array by applying a function to each element
 // map is used to transform the elements of an array into a new array
+// 
